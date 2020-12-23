@@ -75,7 +75,7 @@ class AppComponent {
     }
 }
 AppComponent.ɵfac = function AppComponent_Factory(t) { return new (t || AppComponent)(); };
-AppComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: AppComponent, selectors: [["app-root"]], decls: 83, vars: 0, consts: [[1, "container-fluid"], ["id", "con-1", 1, "container-fluid"], ["id", "t1"], ["id", "t1-1"], ["id", "t1-2"], ["id", "con-2", 1, "container"], ["id", "t2"], ["id", "t2-1"], ["id", "t2-2"], ["id", "con-3", 1, "container"], [1, "card-deck"], [1, "card", 2, "background-color", "azure", "width", "100%", "height", "auto", "float", "left"], [1, "card-body", "text-center"], ["src", "/assets/kritsnam.jpg", "width", "80", "height", "80"], [1, "card", 2, "background-color", "azure", "height", "auto", "width", "100%"], ["src", "/assets/stup.png", "width", "80", "height", "80"], [1, "card", 2, "background-color", "darkseagreen", "padding", "40px", "height", "auto", "background-image", "url('/assets/background-image.png')", "background-size", "100% 100%"], ["href", "https://www.linkedin.com/in/arijeet-banerjee-3b894313a"], [1, "btn", "btn-primary"], [1, "card", 2, "background-color", "darkseagreen", "padding", "80px", "height", "auto", "background-image", "url('/assets/bg-4.jpg')", "background-size", "100% 100%"], [2, "text-align", "center"], ["href", "/assets/AB.pdf", 2, "text-align", "center"], [2, "background-color", "lightblue", "height", "auto", "margin-bottom", "10px", "margin-top", "10px"], [1, "icon", "text-center", "center-block"], ["href", "https://www.facebook.com/arijeet.banerjee.39/"], [1, "fa", "fa-facebook-square", 2, "padding-right", "30px", "font-size", "50px"], ["href", "https://www.instagram.com/the_invincible_sage/"], [1, "fa", "fa-instagram", 2, "padding-right", "30px", "font-size", "50px"], ["href", "https://github.com/Hell-Spider"], [1, "fa", "fa-github", 2, "padding-right", "30px", "font-size", "50px"], [2, "text-align", "center", "padding-top", "25px"]], template: function AppComponent_Template(rf, ctx) { if (rf & 1) {
+AppComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: AppComponent, selectors: [["app-root"]], decls: 88, vars: 0, consts: [[1, "container-fluid"], ["id", "con-1", 1, "container-fluid"], ["id", "t1"], ["id", "t1-1"], ["id", "t1-2"], ["id", "con-2", 1, "container"], ["id", "t2"], ["id", "t2-1"], ["id", "t2-2"], ["id", "con-3", 1, "container"], [1, "card-deck"], [1, "card", 2, "background-color", "azure", "width", "100%", "height", "auto", "float", "left"], [1, "card-body", "text-center"], ["src", "/assets/kritsnam.jpg", "width", "80", "height", "80"], [1, "card", 2, "background-color", "azure", "height", "auto", "width", "100%"], ["src", "/assets/stup.png", "width", "80", "height", "80"], [1, "card", 2, "background-color", "darkseagreen", "padding", "40px", "height", "auto", "background-image", "url('/assets/background-image.png')", "background-size", "100% 100%"], ["href", "https://www.linkedin.com/in/arijeet-banerjee-3b894313a"], [1, "btn", "btn-primary"], [1, "card", 2, "background-color", "darkseagreen", "padding", "80px", "height", "auto", "background-image", "url('/assets/bg-4.jpg')", "background-size", "100% 100%"], [2, "text-align", "center"], ["href", "/assets/AB.pdf", 2, "text-align", "center"], [1, "page-footer", "font-small", "cyan", "darken-3"], [1, "row"], [1, "col-md-12", "py-5"], [1, "mb-5", "flex-center"], [2, "background-color", "lightblue", "height", "auto", "margin-bottom", "10px", "margin-top", "10px"], [1, "icon", "text-center", "center-block"], ["href", "https://www.facebook.com/arijeet.banerjee.39/"], [1, "fa", "fa-facebook-square", 2, "padding-right", "30px", "font-size", "50px"], ["href", "https://www.instagram.com/the_invincible_sage/"], [1, "fa", "fa-instagram", 2, "padding-right", "30px", "font-size", "50px"], ["href", "https://github.com/Hell-Spider"], [1, "fa", "fa-github", 2, "padding-right", "30px", "font-size", "50px"], [2, "text-align", "center", "padding-top", "25px"]], template: function AppComponent_Template(rf, ctx) { if (rf & 1) {
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 0);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](1, "div", 1);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](2, "div", 2);
@@ -83,7 +83,7 @@ AppComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineCompo
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](4, "Arijeet Banerjee");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](5, "div", 4);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](6, "Backend Developer \u2022 Competitive Programmer");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](6, "Full-Stack Developer \u2022 Competitive Programmer");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
@@ -93,12 +93,12 @@ AppComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineCompo
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](10, "About Me");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](11, "div", 8);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](12, " As a Backend Developer, I\u2019m inspired by building software stack and have been influenced by algorithms in ");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](12, " I started paving the way through competitive programming which made me realise that most of the ");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](13, "br");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](14, "a big way, especially their applications in solving real-world problems. ");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](14, "real-world problems can be solved using the alogorithmic approach. ");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](15, "br");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](16, "br");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](17, " I started out with competitive programming which provided me a platform to deal with some mind-wrecking problems. ");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](17, " As a engineer from civil domain it was really fun to explore the alogorithmic approaches that was invloved in the design process of most of the great architectures. ");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](18, "br");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](19, "After that, I decided to test my abilities in software engineering, because I believed it would challenge me ");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](20, "br");
@@ -176,22 +176,32 @@ AppComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineCompo
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](70, "br");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](71, "div", 22);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](72, "div", 23);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](73, "a", 24);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](74, "i", 25);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](71, "footer", 22);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](72, "div", 0);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](73, "div", 23);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](74, "div", 24);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](75, "div", 25);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](76, "div", 26);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](77, "div", 27);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](78, "a", 28);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](79, "i", 29);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](75, "a", 26);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](76, "i", 27);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](80, "a", 30);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](81, "i", 31);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](77, "a", 28);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](78, "i", 29);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](82, "a", 32);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](83, "i", 33);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](79, "h6", 30);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](80, "Website under works, please exercise patience.");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](81, "br");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](82, "Copyright \u00A9 Arijeet Banerjee 2020");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](84, "h6", 34);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](85, "Website under works, please exercise patience.");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](86, "br");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](87, "Copyright \u00A9 Arijeet Banerjee 2020");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
