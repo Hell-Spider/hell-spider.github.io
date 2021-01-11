@@ -93,12 +93,12 @@ AppComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineCompo
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](10, "About Me");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](11, "div", 8);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](12, " I started paving the way through competitive programming which made me realise that most of the ");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](12, " I started paving my way through competitive programming which made me realise that most of the ");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](13, "br");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](14, "real-world problems can be solved using the alogorithmic approach. ");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](14, "real-world problems can be solved using the algorithmic approach. ");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](15, "br");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](16, "br");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](17, " As a engineer from civil domain it was really fun to explore the alogorithmic approaches that was invloved in the design process of most of the great architectures. ");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](17, " As a engineer from civil domain it was really fun to explore the algorithmic approaches that was invloved in the design process of many architectures. ");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](18, "br");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](19, "After that, I decided to test my abilities in software engineering, because I believed it would challenge me ");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](20, "br");
